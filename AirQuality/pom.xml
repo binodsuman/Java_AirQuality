@@ -1,0 +1,36 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>binod.suman</groupId>
+  <artifactId>AirQuality</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+		<commons-lang3.version>3.12.0</commons-lang3.version>
+		<httpclient.version>4.5.9</httpclient.version>
+        <javax.mail.version>1.5.0-b01</javax.mail.version>
+        <async-http-client.version>2.4.5</async-http-client.version>
+        <greenmail.version>1.5.8</greenmail.version>
+  </properties>
+  
+  <dependencies>
+ 	 <dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20180813</version>
+		</dependency>
+		
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>${httpclient.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>${commons-lang3.version}</version>
+        </dependency>
+       
+    </dependencies>
+    
+    
+</project>
