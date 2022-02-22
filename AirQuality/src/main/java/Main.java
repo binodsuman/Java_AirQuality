@@ -10,7 +10,7 @@ import org.json.JSONObject;
 
 public class Main {
 	
-	private static final String API_KEY = "579b464db66ec23bdd000001b212112b23fc49ee4e1e9498063e0b16";
+	private static final String API_KEY = "**********ec23bdd000001b212112b23fc49ee4e1e94**********";
 
     private static final String BASE_URL = "https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?api-key="+API_KEY+"&format=json&offset=0";
    
