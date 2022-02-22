@@ -18,13 +18,13 @@ For Telangana State
 https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?api-key=API_KEY&format=json&offset=0&filters[state]=Telangana
 
 
-Output:
+Output:<br>
 
-*************** Air Pollution Level *********************
-City :Chennai
-State :TamilNadu
-On :22-02-2022 09:00:00
-Min Pollution :33
-Average Pollution :54
-Max Pollution :77
-*****************************
+*************** Air Pollution Level *********************<br>
+City :Chennai<br>
+State :TamilNadu<br>
+On :22-02-2022 09:00:00<br>
+Min Pollution :33<br>
+Average Pollution :54<br>
+Max Pollution :77<br>
+*****************************<br>
